@@ -1,5 +1,6 @@
 michaeljohnson-xyz:
-  resume: 
+  resume:
+    sanity: hello world
     workExperience:
       -
         dailyResponsibilities: "Agile Jira Boards.  Java 8, Spring Microservices and Angular/React UI Development.  Worked with Architect and VP on innovation.  Mentor team of developers on Java, Spring, Angular and React development.  Trained new hires.  Oversaw code reviews on microservice and UI development.  Also host formal, bi-weekly training sessions."
