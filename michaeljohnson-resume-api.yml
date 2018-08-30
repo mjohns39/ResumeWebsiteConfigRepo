@@ -1,26 +1,26 @@
 michaeljohnson-xyz:
-  resume:
-    workExperience:
-      -
-        dailyResponsibilities: "Agile Jira Boards.  Java 8, Spring Microservices and Angular/React UI Development.  Worked with Architect and VP on innovation.  Mentor team of developers on Java, Spring, Angular and React development.  Trained new hires.  Oversaw code reviews on microservice and UI development.  Also host formal, bi-weekly training sessions."
-        significantAccomplishments:
-          -
-            "Designed and created the Security and Cloud architecture and microservices for departments microservice framework using Spring Security and Spring Cloud libraries."
-            "Found and fixed CSRF vulnerability in microservice framework."
-            "Completely created the backend and frontend of an application; backend was Java 8, Spring API and frontend was Angular 5 SPA."
-      -
-        dailyResponsibilities: "Develop Microservices using Java 8, Spring Boot and Pivotal Cloud, DIT test code, review peer code, Daily Standup, groom User Stories for backlog, identify dependencies, pull user stories from backlog and write tasks for user stories."
-        significantAccomplishments:
-          -
-            "Implemented code for Fraud APIs for QuickLock service.  Trained team members on Spring Boot Microservice development and integration.  Integrated QuickLock service with UI calls."
-      -
-        dailyResponsibilities: "Analyze existing report code in WebFocus, write PL/SQL procedure, write Jasper report, inject jasper report into spring bean, write Java controller to call report, add report resource to XHTML file, DIT test report, coordinate with business team for requirements."
-        significantAccomplishments:
-          -
-            "Identified/Corrected 10 reports with production defects, two of which could have resulted in legal action.  Single handily converted 26 of the 40 reports thus delivering project four months ahead of schedule."
-    skills:
-      aboveProficient: "Java 8, Spring Framework (Web, Data, Security, Boot, Testing and Cloud), React, React Native, Redux, Redux-Thunk"
-      proficient: "Oracle PL/SQL, Jasper, Angular 5,  Jwt, PrimeNG, PrimeReact, Native-Base, NPM, OAuth 2.0, MaterialUI, Hybernate, Git, SVN, Gradle, Cucumber, JMeter, Redux-Saga, TDD, BDD"
-      familiar: "AuthO, AWS services, Maven, HTML/CSS/JavaScript, Batch/Bash, Oracle Weblogic Server 11g/12c, AngularJS, OWASP, Groovy, Docker, Kubernetes, Jconsole, Virtual VM"
-      exposure: "Python, C, Pig/Hive, D3.js, Bootstrap, Hadoop/HBase, MongoDB, PCF, GCP"
-    interests: "Mobile App Development, AI/Machine learning, weight lifting, dog training, DOTA2 Mods, Open source contribution, writing Spring Guides, making examples in Spring and React on github.  Ethical hacking.  Different types of Security Testing."
+  resume: hello world
+    # workExperience:
+    #   -
+    #     dailyResponsibilities: "Agile Jira Boards.  Java 8, Spring Microservices and Angular/React UI Development.  Worked with Architect and VP on innovation.  Mentor team of developers on Java, Spring, Angular and React development.  Trained new hires.  Oversaw code reviews on microservice and UI development.  Also host formal, bi-weekly training sessions."
+    #     significantAccomplishments:
+    #       -
+    #         "Designed and created the Security and Cloud architecture and microservices for departments microservice framework using Spring Security and Spring Cloud libraries."
+    #         "Found and fixed CSRF vulnerability in microservice framework."
+    #         "Completely created the backend and frontend of an application; backend was Java 8, Spring API and frontend was Angular 5 SPA."
+    #   -
+    #     dailyResponsibilities: "Develop Microservices using Java 8, Spring Boot and Pivotal Cloud, DIT test code, review peer code, Daily Standup, groom User Stories for backlog, identify dependencies, pull user stories from backlog and write tasks for user stories."
+    #     significantAccomplishments:
+    #       -
+    #         "Implemented code for Fraud APIs for QuickLock service.  Trained team members on Spring Boot Microservice development and integration.  Integrated QuickLock service with UI calls."
+    #   -
+    #     dailyResponsibilities: "Analyze existing report code in WebFocus, write PL/SQL procedure, write Jasper report, inject jasper report into spring bean, write Java controller to call report, add report resource to XHTML file, DIT test report, coordinate with business team for requirements."
+    #     significantAccomplishments:
+    #       -
+    #         "Identified/Corrected 10 reports with production defects, two of which could have resulted in legal action.  Single handily converted 26 of the 40 reports thus delivering project four months ahead of schedule."
+    # skills:
+    #   aboveProficient: "Java 8, Spring Framework (Web, Data, Security, Boot, Testing and Cloud), React, React Native, Redux, Redux-Thunk"
+    #   proficient: "Oracle PL/SQL, Jasper, Angular 5,  Jwt, PrimeNG, PrimeReact, Native-Base, NPM, OAuth 2.0, MaterialUI, Hybernate, Git, SVN, Gradle, Cucumber, JMeter, Redux-Saga, TDD, BDD"
+    #   familiar: "AuthO, AWS services, Maven, HTML/CSS/JavaScript, Batch/Bash, Oracle Weblogic Server 11g/12c, AngularJS, OWASP, Groovy, Docker, Kubernetes, Jconsole, Virtual VM"
+    #   exposure: "Python, C, Pig/Hive, D3.js, Bootstrap, Hadoop/HBase, MongoDB, PCF, GCP"
+    # interests: "Mobile App Development, AI/Machine learning, weight lifting, dog training, DOTA2 Mods, Open source contribution, writing Spring Guides, making examples in Spring and React on github.  Ethical hacking.  Different types of Security Testing."
